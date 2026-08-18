@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="download (14).jpg" width="100%" alt="Capa do perfil">
+  <img src="download (14)" width="100%" alt="Capa do perfil">
 </p>
 
 <!--
