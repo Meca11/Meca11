@@ -1,5 +1,44 @@
 <p align="center">
-  <img src="download (14)" width="100%" alt="Capa do perfil">
+  <img src="banner.png" width="100%" alt="Banner do perfil">
+</p>
+
+<h1 align="center">Meca</h1>
+
+<p align="center">
+  <b>Técnica em Mecânica • Análise e Desenvolvimento de Sistemas</b>
+</p>
+
+<p align="center">
+  Mecânica ⚙️ + Tecnologia 💻
+</p>
+
+---
+
+### Sobre
+
+Técnica em Mecânica e estudante de **Análise e Desenvolvimento de Sistemas**.
+
+Atualmente construindo minha base em desenvolvimento de software, programação e banco de dados.
+
+### Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,html,css,js" />
+</p>
+
+### Estudando
+
+`Python` · `SQL` · `Git` · `HTML` · `CSS` · `JavaScript`
+
+### Formação
+
+⚙️ **Técnico em Mecânica**
+💻 **Tecnólogo em Análise e Desenvolvimento de Sistemas — cursando**
+
+---
+
+<p align="center">
+  <sub>Um projeto de cada vez.</sub>
 </p>
 
 <!--
