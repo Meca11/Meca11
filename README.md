@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner do perfil">
+  <img src="download (14)" width="100%" alt="Banner do perfil">
 </p>
 
 <h1 align="center">Meca</h1>
