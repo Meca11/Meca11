@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Capa do perfil">
+  <img src="Design sem nome (3)" width="100%" alt="Capa do perfil">
 </p>
 
 <!--
