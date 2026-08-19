@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="download (14)" width="100%" alt="Banner do perfil">
-</p>
-
 <h1 align="center">Meca</h1>
 
 <p align="center">
